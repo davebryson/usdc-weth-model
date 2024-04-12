@@ -30,4 +30,6 @@ dependencies = [
   "simular-evm>=0.2.2",
   "mesa>=2.2.4",
   "pytest>=8.1.1",
+  "jupyter>=1.0.0",
+  "scipy>=1.13.0",
 ]
